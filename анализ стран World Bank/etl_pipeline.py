@@ -1,5 +1,3 @@
-
-# импорт бтблиотек
 import requests
 import pandas as pd
 import numpy as np
@@ -299,3 +297,4 @@ def run_etl():
         print(f'Load mistake: {e}')
 
        
+
