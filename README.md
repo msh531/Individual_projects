@@ -1,7 +1,8 @@
 ## Pet-проекты
 ### Стек: 
-    python: pandas, numpy, requests, matplotlib, seaborn, plotly, scipy, sklearn, SQLAlchemy
-    SQL
+     - Python: pandas, numpy, requests, matplotlib, seaborn, plotly, scipy, sklearn, SQLAlchemy
+     - SQL
+     - DataLens
 
 ### Анализ стран World Bank
 Цель проекта: выявить взаимосвязь между уровнем экономического развития страны (ВВП на душу населения) и определенными социально-демографическими показателями, а также влиянием на экологию (выбросы СО2 на душу населения), проанализировать как эта зависимость менялась с течением времени для разных групп стран. Для анализа используются данные Всемирного банка (World Bank) - парсинг данных через API World Bank
