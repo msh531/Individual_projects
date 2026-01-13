@@ -1,7 +1,7 @@
 Проект: анализ экономического развития стран и его связи с социально-демографическими показателями, а также воздействием на экологию. Сравнительное исследование стран (1985 – 2023 годы)
 
 Стек:
-- Python (requests, pandas, matplotlib, seaborn, plotly, scipy, sklearn), 
+- Python (requests, pandas, matplotlib, seaborn, plotly, scipy, sklearn, SQLAlchemy) 
 - SQL
 - DataLens
   
