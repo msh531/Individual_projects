@@ -19,7 +19,8 @@
 - Провести кластеризацию стран
 4.	Сделать выводы о взаимосвязи
   
-    ссылка на файл с анализом данных: [Анализ и визуализация данных.ipynb] (https://github.com/msh531/Individual_projects/blob/5a06b63a87a607bea612e8f32d8bb5c8b1ee5540/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%81%D1%82%D1%80%D0%B0%D0%BD_World_Bank/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B8%20%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb)
+    ссылка на файл с анализом данных: [Анализ и визуализация данных.ipynb](https://github.com/msh531/Individual_projects/blob/ee4152e1dcd45967718be5e2b9f729d1f69e5354/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%81%D1%82%D1%80%D0%B0%D0%BD_World_Bank/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B8%20%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb)
+
 5.	Подготовить дашборд в DataLens
     ссылка на дашборд
 
