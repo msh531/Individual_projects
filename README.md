@@ -2,7 +2,7 @@
 ### Стек: 
      - Python: pandas, numpy, requests, matplotlib, seaborn, plotly, scipy, sklearn, SQLAlchemy
      - SQL
-     - DataLens
+
 
 ### Анализ стран World Bank
 [ссылка на проект](https://github.com/msh531/Individual_projects/tree/2dfd92a07f49f5a1eb8edd89e1c0993534c261ef/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%81%D1%82%D1%80%D0%B0%D0%BD_World_Bank)
