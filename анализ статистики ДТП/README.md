@@ -30,18 +30,17 @@
 
 **Описание вложенных файлов:**
 
-**1. ETL\_cities.py:** cкрипт выгрузки данных по городам, координат городов, предварительной очистки данных и загрузки данных в БД. 
+1.  [ETL\_cities.py](https://github.com/msh531/Individual_projects/blob/2cd39279770cb093ffa2f8c41ef9e5b8cf676590/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8%20%D0%94%D0%A2%D0%9F/ETL_cities.py) cкрипт выгрузки данных по городам, координат городов, предварительной очистки данных и загрузки данных в БД. 
 
-**2. get\_OKATO\_from\_json.py:** cкрипт выгружает данные ОКАТО по городам и регионам РФ из json файла, формирует pandas.DataFrame и загружает его в csv.
+2. [get\_OKATO\_from\_json.py](https://github.com/msh531/Individual_projects/blob/2cd39279770cb093ffa2f8c41ef9e5b8cf676590/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8%20%D0%94%D0%A2%D0%9F/get_OKATO_from_json.py) cкрипт выгружает данные ОКАТО по городам и регионам РФ из json файла, формирует pandas.DataFrame и загружает его в csv.
 
-**3. ETL\_meteo\_daily.py:** cкрипт выгружает ежедневные данные о погоде за период 2015-2025 включительно по г.Екатеринбург и г.Владивосток.  
-парсит полученный json данные в pandas.DataFrame, загружает в БД.
+3. [ETL\_meteo\_daily.py](https://github.com/msh531/Individual_projects/blob/2cd39279770cb093ffa2f8c41ef9e5b8cf676590/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8%20%D0%94%D0%A2%D0%9F/ETL_meteo_daily.py) cкрипт выгружает ежедневные данные о погоде за период 2015-2025 включительно по г.Екатеринбург и г.Владивосток. Парсит полученный json данные в pandas.DataFrame, загружает в БД.
 
-**4. ETL\_DTP.py:** cкрипт выгружает данные о ДТП по г.Екатеринбург и г.Владивосток в JSON, парсит JSON, формирует pandas.DataFrame, загружает их в БД
+4. [ETL\_DTP.py](https://github.com/msh531/Individual_projects/blob/2cd39279770cb093ffa2f8c41ef9e5b8cf676590/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8%20%D0%94%D0%A2%D0%9F/ETL_DTP.py) cкрипт выгружает данные о ДТП по г.Екатеринбург и г.Владивосток в JSON, парсит JSON, формирует pandas.DataFrame, загружает их в БД
 
-**5. Data\_cleaning.ipynb:** jupyter notebook с выгрузкой датафреймов о ДТП, их очисткой и предобработкой. Очищенные датафреймы снова загружаются в БД.
+5. [Data\_cleaning.ipynb](https://github.com/msh531/Individual_projects/blob/2cd39279770cb093ffa2f8c41ef9e5b8cf676590/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8%20%D0%94%D0%A2%D0%9F/Data_cleaning.ipynb) jupyter notebook с выгрузкой датафреймов о ДТП, их очисткой и предобработкой. Очищенные датафреймы снова загружаются в БД.
 
-**6. EDA\_DTP.ipynb:** jupyter notebook с  исследовательским анализом данных. Анализ, визуализация данных, оценка влияния погодных условий, проверка гипотезы, расчет корреляции. 
+6. [EDA\_DTP.ipynb](https://github.com/msh531/Individual_projects/blob/2cd39279770cb093ffa2f8c41ef9e5b8cf676590/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8%20%D0%94%D0%A2%D0%9F/EDA_DTP.ipynb) jupyter notebook с  исследовательским анализом данных. Анализ, визуализация данных, оценка влияния погодных условий, проверка гипотезы, расчет корреляции. 
 
 
 
