@@ -1,6 +1,6 @@
 ## Pet-проекты
 ### Стек: 
-     - Python: pandas, numpy, requests, matplotlib, seaborn, plotly, scipy, sklearn, SQLAlchemy
+     - Python: pandas, numpy, requests, SQLAlchemy, json, BeautifulSoup, matplotlib, seaborn, plotly, scipy, sklearn 
      - SQL
      - DataLens
 
